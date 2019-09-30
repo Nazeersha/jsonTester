@@ -1,0 +1,171 @@
+{
+	"environment": [{
+			"name": "UAT1",
+			"release": "R19.1",
+			"production": "23/09/2019",
+			"details": [{
+					"instance": 1,
+					"status": 100
+				},
+				{
+					"instance": 2,
+					"status": 101
+				},
+				{
+					"instance": 3,
+					"status": 100
+				}
+			],
+			"defects": [{
+				"showstopper": 4,
+				"high": 3,
+				"medium": 5,
+				"low": 9
+			}],
+			"delivery": [{
+					"team": "cops",
+					"story": 3,
+					"points": 24,
+					"done": 2
+				},
+				{
+					"team": "safety",
+					"story": 2,
+					"points": 20,
+					"done": 1
+				},
+				{
+					"team": "onboarding",
+					"story": 3,
+					"points": 21,
+					"done": 2
+				}
+			]
+		},
+		{
+			"name": "UAT4",
+			"release": "R20",
+			"production": "23/10/2019",
+			"details": [{
+					"instance": 1,
+					"status": 100
+				},
+				{
+					"instance": 2,
+					"status": 101
+				}
+			],
+			"defects": [{
+				"showstopper": 1,
+				"high": 2,
+				"medium": 4,
+				"low": 6
+			}],
+			"delivery": [{
+					"team": "cops",
+					"story": 3,
+					"points": 24,
+					"done": 2
+				},
+				{
+					"team": "safety",
+					"story": 2,
+					"points": 20,
+					"done": 1
+				},
+				{
+					"team": "onboarding",
+					"story": 3,
+					"points": 21,
+					"done": 2
+				}
+			]
+		},
+		{
+			"name": "UAT3",
+			"release": "R21",
+			"production": "23/11/2019",
+			"details": [{
+					"instance": 1,
+					"status": 100
+				},
+				{
+					"instance": 2,
+					"status": 101
+				},
+				{
+					"instance": 3,
+					"status": 100
+				}
+			],
+			"defects": [{
+				"showstopper": 4,
+				"high": 3,
+				"medium": 5,
+				"low": 9
+			}],
+			"delivery": [{
+					"team": "cops",
+					"story": 3,
+					"points": 24,
+					"done": 2
+				},
+				{
+					"team": "safety",
+					"story": 2,
+					"points": 20,
+					"done": 1
+				},
+				{
+					"team": "onboarding",
+					"story": 3,
+					"points": 21,
+					"done": 2
+				}
+			]
+		},
+		{
+			"name": "UAT2",
+			"release": "R22",
+			"production": "23/12/2019",
+			"details": [{
+					"instance": 1,
+					"status": 100
+				},
+				{
+					"instance": 2,
+					"status": 101
+				},
+				{
+					"instance": 3,
+					"status": 100
+				}
+			],
+			"defects": [{
+				"showstopper": 4,
+				"high": 3,
+				"medium": 5,
+				"low": 9
+			}],
+			"delivery": [{
+					"team": "cops",
+					"story": 3,
+					"points": 24,
+					"done": 2
+				},
+				{
+					"team": "safety",
+					"story": 2,
+					"points": 20,
+					"done": 1
+				},
+				{
+					"team": "onboarding",
+					"story": 3,
+					"points": 21,
+					"done": 2
+				}
+			]
+		}
+	]
+}
